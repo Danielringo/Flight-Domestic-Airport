@@ -1,0 +1,46 @@
+kategori_penerbangan,maskapai,kode_maskapai,bandara_asal,bandara_tujuan,jumlah_transaksi,total_tiket_terjual,total_pendapatan,rata_rata_harga_tiket,harga_tiket_tertinggi,harga_tiket_terendah,jumlah_penumpang_unik,pembelian_multi_tiket,rata_rata_kurs,jumlah_penerbangan_unik,pendapatan_per_tiket,periode_transaksi,periode_keberangkatan
+Internasional,"Emirates ",EK,"Singapore Changi Airport","Darwin International Airport",2,6,63300000,10550000.00,10550000,10550000,2,2,705,2,10550000.00,Malam,Malam
+Internasional,"Cathay Pacific Airlines",CX,"Singapore Changi Airport","Schiphol International Airport",1,3,37665000,12555000.00,12555000,12555000,1,1,839,1,12555000.00,Malam,Malam
+Internasional,"Emirates ",EK,"Singapore Changi Airport","Adelaide International Airport",1,3,35250000,11750000.00,11750000,11750000,1,1,786,1,11750000.00,Pagi,Malam
+Internasional,"Singapore Airlines",SGX,"Singapore Changi Airport","Incheon International Aiport",1,4,33420000,8355000.00,8355000,8355000,1,1,558,1,8355000.00,Malam,Malam
+Internasional,"Japan Airlines ",JPY,"Singapore Changi Airport","Incheon International Aiport",1,4,33420000,8355000.00,8355000,8355000,1,1,558,1,8355000.00,Malam,Malam
+Internasional,"All Nippon Airways",NH,"Singapore Changi Airport","Narita Tokyo International Airport",1,4,33000000,8250000.00,8250000,8250000,1,1,551,1,8250000.00,Malam,Malam
+Internasional,"Qatar Airways",QR,"Singapore Changi Airport","Brisbane International Airport",1,3,31050000,10350000.00,10350000,10350000,1,1,692,1,10350000.00,Malam,Malam
+Internasional,"Japan Airlines ",JPY,"Singapore Changi Airport","Osaka Japan International Airport",1,2,27500000,13750000.00,13750000,13750000,1,1,919,1,13750000.00,Malam,Malam
+Internasional,"Singapore Airlines",SGX,"Singapore Changi Airport","Schiphol International Airport",1,2,25110000,12555000.00,12555000,12555000,1,1,839,1,12555000.00,Malam,Malam
+Internasional,"Singapore Airlines",SGX,"Singapore Changi Airport","Narita Tokyo International Airport",1,3,24750000,8250000.00,8250000,8250000,1,1,551,1,8250000.00,Malam,Malam
+Internasional,"Thai Airways International Airlines",TG,"Singapore Changi Airport","Da Nang International Airport",1,2,22700000,11350000.00,11350000,11350000,1,1,759,1,11350000.00,Malam,Malam
+Internasional,"Malaysia Airlines",MH,"Singapore Changi Airport","Capital International Airport",1,2,21000000,10500000.00,10500000,10500000,1,1,702,1,10500000.00,Malam,Malam
+Internasional,"Turkish Airlines",TRY,"Singapore Changi Airport","Zurich International Airport",1,2,20910000,10455000.00,10455000,10455000,1,1,699,1,10455000.00,Malam,Malam
+Internasional,"All Nippon Airways",NH,"Singapore Changi Airport","Frankfut German International Airport",1,2,20710000,10355000.00,10355000,10355000,1,1,692,1,10355000.00,Pagi,Malam
+Internasional,"Qatar Airways",QR,"Singapore Changi Airport","Seri BegawanInternational Airport",2,2,17400000,8700000.00,8700000,8700000,2,0,582,1,8700000.00,Malam,Malam
+Internasional,"Saudia Airlines",SV,"Singapore Changi Airport","Narita Tokyo International Airport",1,2,16500000,8250000.00,8250000,8250000,1,1,551,1,8250000.00,Malam,Malam
+Internasional,"Saudia Airlines",SV,"Singapore Changi Airport","Osaka Japan International Airport",1,1,13750000,13750000.00,13750000,13750000,1,0,919,1,13750000.00,Malam,Malam
+Internasional,"Emirates ",EK,"Singapore Changi Airport","Istanbul Turkey International Airport",1,1,11550000,11550000.00,11550000,11550000,1,0,772,1,11550000.00,Malam,Malam
+Internasional,"Turkish Airlines",TRY,"Singapore Changi Airport","Istanbul Turkey International Airport",1,1,11550000,11550000.00,11550000,11550000,1,0,772,1,11550000.00,Malam,Malam
+Domestik,"Garuda Indonesia",GA,"Soekarno-Hatta Airport","Sultan Mahmud Badaruddin II, Palembang",2,5,11000000,2200000.00,2200000,2200000,2,1,147,1,2200000.00,Malam,Malam
+Internasional,"Thai Airways International Airlines",TG,"Singapore Changi Airport","Frankfut German International Airport",1,1,10355000,10355000.00,10355000,10355000,1,0,692,1,10355000.00,Malam,Malam
+Internasional,"Air France Airlines",TAT,"Singapore Changi Airport","Baiyun International Airport",1,1,9850000,9850000.00,9850000,9850000,1,0,658,1,9850000.00,Malam,Malam
+Domestik,"Airfast ",FS,"Soekarno-Hatta Airport","Juanda, Surabaya",2,5,9750000,1950000.00,1950000,1950000,2,1,130,1,1950000.00,Malam,Malam
+Internasional,"All Nippon Airways",NH,"Singapore Changi Airport","Hanoi International Airport",1,1,9550000,9550000.00,9550000,9550000,1,0,638,1,9550000.00,Malam,Malam
+Domestik,"Indonesia AirAsia",QZ,"Soekarno-Hatta Airport","Ngurah Rai, Denpasar Bali",2,4,7800000,1950000.00,1950000,1950000,2,2,130,2,1950000.00,Malam,Malam
+Domestik,"Lion Air",JT,"Soekarno-Hatta Airport","Juanda, Surabaya",1,3,5850000,1950000.00,1950000,1950000,1,1,130,1,1950000.00,Malam,Malam
+Internasional,"Singapore Airlines",SGX,"Singapore Changi Airport","Kuala Lumpur International Airport",1,2,5600000,2800000.00,2800000,2800000,1,1,187,1,2800000.00,Malam,Malam
+Domestik,"Super Air Jet",IU,"Soekarno-Hatta Airport","Kualanamu, Medan",1,2,4400000,2200000.00,2200000,2200000,1,1,147,1,2200000.00,Malam,Malam
+Domestik,Citilink,QG,"Soekarno-Hatta Airport","Supadio, Pontianak",1,2,4300000,2150000.00,2150000,2150000,1,1,143,1,2150000.00,Malam,Malam
+Domestik,"Super Air Jet",IU,"Soekarno-Hatta Airport","Adisutjipto, DIY ",1,2,4000000,2000000.00,2000000,2000000,1,1,133,1,2000000.00,Malam,Malam
+Domestik,"Sriwijaya Air",SJ,"Soekarno-Hatta Airport","Ngurah Rai, Denpasar Bali",1,2,3900000,1950000.00,1950000,1950000,1,1,130,1,1950000.00,Malam,Malam
+Domestik,"Indonesia AirAsia",QZ,"Soekarno-Hatta Airport","Ngurah Rai, Denpasar Bali",1,2,3900000,1950000.00,1950000,1950000,1,1,130,1,1950000.00,Pagi,Malam
+Domestik,"Lion Air",JT,"Soekarno-Hatta Airport","Pattimura, Ambon",1,1,3750000,3750000.00,3750000,3750000,1,0,250,1,3750000.00,Malam,Malam
+Domestik,"Airfast ",FS,"Soekarno-Hatta Airport","Pattimura, Ambon",1,1,3750000,3750000.00,3750000,3750000,1,0,250,1,3750000.00,Malam,Malam
+Domestik,"Batik Air",ID,"Soekarno-Hatta Airport","Adisumarno, Solo",1,1,2600000,2600000.00,2600000,2600000,1,0,173,1,2600000.00,Malam,Malam
+Internasional,"Thai Airways International Airlines",TG,"Singapore Changi Airport","Suvarnabhumi International Airport",1,1,2550000,2550000.00,2550000,2550000,1,0,170,1,2550000.00,Malam,Malam
+Internasional,"Singapore Airlines",SGX,"Singapore Changi Airport","Suvarnabhumi International Airport",1,1,2550000,2550000.00,2550000,2550000,1,0,170,1,2550000.00,Pagi,Malam
+Domestik,"Lion Air",JT,"Soekarno-Hatta Airport","Sultan Thaha, Jambi",1,1,2355000,2355000.00,2355000,2355000,1,0,157,1,2355000.00,Malam,Malam
+Domestik,Citilink,QG,"Soekarno-Hatta Airport","Sultan Thaha, Jambi",1,1,2355000,2355000.00,2355000,2355000,1,0,157,1,2355000.00,Malam,Malam
+Domestik,"NAM Air",IN,"Soekarno-Hatta Airport","Zainuddin Abdul Madjid, Praya",1,1,2350000,2350000.00,2350000,2350000,1,0,157,1,2350000.00,Malam,Malam
+Domestik,"NAM Air",IN,"Soekarno-Hatta Airport","Sultan Hasanuddin, Sulawesi Selatan",1,1,2350000,2350000.00,2350000,2350000,1,0,157,1,2350000.00,Pagi,Malam
+Domestik,"Sriwijaya Air",SJ,"Soekarno-Hatta Airport","Abdul Rachman Saleh, Malang",1,1,2200000,2200000.00,2200000,2200000,1,0,147,1,2200000.00,Malam,Malam
+Domestik,"Garuda Indonesia",GA,"Soekarno-Hatta Airport","Minangkabau, Padang",1,1,2200000,2200000.00,2200000,2200000,1,0,147,1,2200000.00,Malam,Malam
+Domestik,"Super Air Jet",IU,"Soekarno-Hatta Airport","Minangkabau, Padang",1,1,2200000,2200000.00,2200000,2200000,1,0,147,1,2200000.00,Malam,Malam
+Domestik,"Airfast ",FS,"Soekarno-Hatta Airport","Ngurah Rai, Denpasar Bali",1,1,1950000,1950000.00,1950000,1950000,1,0,130,1,1950000.00,Malam,Malam
